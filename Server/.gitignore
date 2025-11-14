@@ -1,0 +1,7 @@
+/yolo/
+/venv/
+/mysql/
+/images/
+/backup/
+.env
+docker-compose.yaml
